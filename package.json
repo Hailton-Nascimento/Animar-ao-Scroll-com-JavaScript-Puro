@@ -1,0 +1,12 @@
+{
+  "name": "Projeto",
+  "version": "1.0.0",
+  "description": "Projeto proposto pelo canal <a href=\" https://www.youtube.com/watch?v=hKXOVD2Yrj8\">Origamid</a> no curso de 🐺 CSS Grid Layout - Curso Completo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
